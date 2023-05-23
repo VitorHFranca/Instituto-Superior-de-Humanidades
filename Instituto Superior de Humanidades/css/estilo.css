@@ -1,0 +1,107 @@
+body{
+	background: #003063 url('struckaxiom.webp');
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal {
+	width: auto;
+	align-items: center;
+
+}
+
+#parte1{
+	margin-left: 10%;
+	box-shadow: #003063;
+
+}
+
+#parte2{
+	margin-left: 48px;
+
+}
+
+#parte3{
+	margin-left: 48px;
+}
+
+#parte4{
+	margin-left: 48px;
+}
+.container{
+	font-display: 5px;
+	display: inline-flex;
+	font-size: 10px;
+	float: left;
+}
+
+#menu {
+	background:#4BC3FA;
+	padding: 18px;
+	align-items: center;
+}
+#fotoquem{
+margin-left: 12%;
+
+}
+#logo{
+
+	margin-left: 10%;
+	margin-top: -10%;
+	margin-bottom: -2.2%;
+	box-sizing: border-box;
+}
+
+#pInstituto{
+	font-size: 20px;
+	display: flex;
+	align-items: center;
+	color: #000000;
+}
+
+#conteudo {
+	background: rgb(190, 27, 27);
+	background: #ffffff;
+	padding: 10px;
+	text-align: justify;
+}
+
+#rodape {
+	text-align: center;
+	border-radius: 100px;
+}
+
+a {
+	color: #003063;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+
+}
+
+.centralizar {
+	text-align: center;
+}
+
+.img-campanha {
+	border: 10px ridge #5A6063;
+	float: inline-start 50%;
+}
+
+
+h1 {
+	color: #003063;
+	font-size: 2em;
+}
+p{
+	color: #003063;
+	font-size: 1.5em;
+}
+h2{
+	color: #003063;
+
+}
+h4{
+	color: #fefeff;
+	margin-bottom: -50%;
+
+}
